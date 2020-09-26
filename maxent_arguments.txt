@@ -1,0 +1,8 @@
+outputgrids=false
+convergencethreshold=1.0E-3
+linear=true
+quadratic=true
+product=false
+threshold=false
+hinge=false
+autofeature=false
