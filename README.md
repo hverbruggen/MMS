@@ -58,7 +58,7 @@ optional parameters
 
 ### Citation
 If you find this software useful, please cite it in your work. I recommend citing it as follows:
-Verbruggen H. (2012) Maxent Model Surveyor version 1.07. http://www.phycoweb.net/software
+Verbruggen H. (2012) Maxent Model Surveyor version 1.07. https://github.com/hverbruggen/MMS
 
 I also recommend citing the first paper that used and described the technique implemented here:
 Verbruggen H., Tyberghein L., Belton G.S., Mineur F., Jueterbock A., Hoarau G., Gurgel C.F.D. & De Clerck O. (2013) Improving transferability of introduced species' distribution models: new tools to forecast the spread of a highly invasive seaweed. PLoS One 8: e68337.
